@@ -24,5 +24,6 @@ With some products already selected and ready to go to the Cart page.
 
 ## Payment Page - Stripe Redirect
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment.png)
-Sucessful Payment
+
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment2.png)
+After this successful payment we are redirected to our webstore page.
