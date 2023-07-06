@@ -25,6 +25,14 @@ Products page with some products already selected.
 
 ## Payment Page - Stripe Redirect
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment.png)
-
+Stripe test payment page.
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment2.png)
-After this successful payment we are redirected to our webstore page.
+After this successful payment, we are redirected to our webstore page.
+
+## Conclusion
+
+We're proud to say that all the technologies used in this project, including React, Redux, Vite, the API, and Stripe payment integration, work seamlessly together. They contribute to the smooth and reliable functionality of our webstore.
+
+Feel free to fork this project, experiment, and make it your own. Your creativity and expertise can take this webstore to new heights. I encourage you to share your modifications with the community and help us create an even better webstore experience.
+
+Thank you for your interest in the project, and I look forward to seeing your contributions. Happy coding and happy webstore editing!
