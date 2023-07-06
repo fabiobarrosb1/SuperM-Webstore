@@ -23,7 +23,7 @@ Products page with some products already selected.
 ## Cart Page
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMcart.png)
 
-## Payment Page - Stripe Redirect
+## Payment Page - Stripe Integration
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment.png)
 Stripe test payment page.
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment2.png)
