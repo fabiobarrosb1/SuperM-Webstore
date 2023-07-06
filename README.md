@@ -16,7 +16,8 @@ SuperM is a webstore project made in ReactJS.
 
 ## Products Page
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMproducts.png)
-With some products already selected and ready to go to the Cart page.
+
+Products page with some products already selected.
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMproducts2.png)
 
 ## Cart Page
