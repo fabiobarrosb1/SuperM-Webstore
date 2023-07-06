@@ -1,16 +1,28 @@
-# superMstore
+# superMstore 
+[SuperM Webstore Link](https://superm-onlinestore.netlify.app)
 
 SuperM is a webstore project made in ReactJS.
 
 ## Technologies Used
 
-- ReactJS: A JavaScript library for building user interfaces.
-- Stripe Payment: A payment processing platform for accepting online payments.
-- Vite: A fast and lightweight build tool for modern web applications.
-- API: Custom API endpoints for handling backend functionality.
+- **ReactJS**: A JavaScript library for building user interfaces.
+- **Redux**: A predictable state container for JavaScript applications, commonly used with React for managing application state.
+- **Vite**: A fast and lightweight build tool for modern web applications.
+- **API**: Custom API endpoints for handling backend functionality.
+- **Stripe Payment**: A payment processing platform for accepting online payments.
 
-[Webstore Link](https://superm-onlinestore.netlify.app)
-
-
+## Home Page
 ![Home Page](superm-vite-react18-usefetch/screenshots/superMhome.png)
 
+## Products Page
+![Home Page](superm-vite-react18-usefetch/screenshots/superMproducts.png)
+With some products already selected and ready to go to the Cart page.
+![Home Page](superm-vite-react18-usefetch/screenshots/superMproducts2.png)
+
+## Cart Page
+![Home Page](superm-vite-react18-usefetch/screenshots/superMcart.png)
+
+## Payment Page - Stripe Redirect
+![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment.png)
+Sucessful Payment
+![Home Page](superm-vite-react18-usefetch/screenshots/superMpayment2.png)
