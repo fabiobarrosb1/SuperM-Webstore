@@ -1,4 +1,4 @@
-# superMstore 
+# SuperM Webstore 
 [SuperM Webstore Link](https://superm-onlinestore.netlify.app) 🛒
 
 SuperM is a webstore project made in ReactJS.
