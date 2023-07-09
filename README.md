@@ -31,7 +31,7 @@ After this successful payment, we are redirected to our webstore page.
 
 ## Conclusion
 
-We're proud to say that all the technologies used in this project, including React, Redux, Vite, the API, and Stripe payment integration, work seamlessly together. They contribute to the smooth and reliable functionality of our webstore.
+I'm proud to say that all the technologies used in this project, including React, Redux, Vite, the API, and Stripe payment integration, work seamlessly together. They contribute to the smooth and reliable functionality of our webstore.
 
 Feel free to fork this project, experiment, and make it your own. Your creativity and expertise can take this webstore to new heights. I encourage you to share your modifications with the community and help us create an even better webstore experience.
 
